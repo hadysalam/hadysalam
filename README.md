@@ -6,17 +6,17 @@ I'm a life long professional learner, self-taught, self-made. My journey in the 
 
 ## Personal Interests 🌟
 
-🎵 **Music**: Whether exploring new tunes or vibing to my favorites, music is my sanctuary.
-📚 **Reading**: I'm constantly exploring self improvement, soaking up knowledge and inspiration.
-🏋️‍♂️ **Working Out**: Lifting weights, doing calisthenics, or running allows me to escape to my sanctuary and find solace. 
-👨‍💻 **Geeking Out**: I stay ahead by diving deep into tech trends and innovations.
-♟️ **Chess**: Enjoy playing chess, even if I'm soft at it—it's all about the fun and challenge.
+- 🎵 **Music**: Whether exploring new tunes or vibing to my favorites, music is my sanctuary.
+- 📚 **Reading**: I'm constantly exploring self improvement, soaking up knowledge and inspiration.
+- 🏋️‍♂️ **Working Out**: Lifting weights, doing calisthenics, or running allows me to escape to my sanctuary and find solace. 
+- 👨‍💻 **Geeking Out**: I stay ahead by diving deep into tech trends and innovations.
+- ♟️ **Chess**: Enjoy playing chess, even if I'm soft at it—it's all about the fun and challenge.
 
 ## Currently Learning 🌱
 
-📝 **LLM (Large Language Models)**: Mastering language processing and generation.
-🎨 **Generative AI**: Exploring AI's creative potential in art, music, and beyond.
-📱 **3D Development**: Venturing into developing immersive virtual worlds through modeling and development, from the inside out.
+- 📝 **LLM (Large Language Models)**: Mastering language processing and generation.
+- 🎨 **Generative AI**: Exploring AI's creative potential in art, music, and beyond.
+- 📱 **3D Development**: Venturing into developing immersive virtual worlds through modeling and development, from the inside out.
 
 ## 🌐 Socials:
 
