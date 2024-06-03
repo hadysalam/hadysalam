@@ -7,26 +7,20 @@ I'm a life long professional learner, self-taught, self-made. My journey in the 
 ## Personal Interests 🌟
 
 🎵 **Music**: Whether exploring new tunes or vibing to my favorites, music is my sanctuary.
-
 📚 **Reading**: I'm constantly exploring self improvement, soaking up knowledge and inspiration.
-
 🏋️‍♂️ **Working Out**: Lifting weights, doing calisthenics, or running allows me to escape to my sanctuary and find solace. 
-
 👨‍💻 **Geeking Out**: I stay ahead by diving deep into tech trends and innovations.
-
 ♟️ **Chess**: Enjoy playing chess, even if I'm soft at it—it's all about the fun and challenge.
 
 ## Currently Learning 🌱
 
 📝 **LLM (Large Language Models)**: Mastering language processing and generation.
-
 🎨 **Generative AI**: Exploring AI's creative potential in art, music, and beyond.
-
 📱 **3D Development**: Venturing into developing immersive virtual worlds through modeling and development, from the inside out.
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hadysalam.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadysalam.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadysalam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hadysalam.dev) [![Github](https://img.shields.io/badge/Github-%232b3137.svg?logo=Github&logoColor=white)](https://github.com/hadysalam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hadysalam96) [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white)](mailto:hadysalam96@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hadysalam96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadysalam96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadysalam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hadysalam96) [![Github](https://img.shields.io/badge/Github-%232b3137.svg?logo=Github&logoColor=white)](https://github.com/hadysalam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hadysalam96) [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white)](mailto:hadysalam96@gmail.com)
 
 # 💻 Tech Skills:
 
